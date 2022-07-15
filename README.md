@@ -1,5 +1,5 @@
 <h1 align="center">Quizzes Tutor</h1>
-<p align="center">Grade: 19.67 - Desenvolvimento de PRD</p>
+<p align="center">Grade: 19.67 - PRD Development</p>
 <p align="center">
   <a href="https://github.com/socialsoftware/quizzes-tutor/actions">
     <img src="https://img.shields.io/github/workflow/status/socialsoftware/quizzes-tutor/build" alt="Build">
